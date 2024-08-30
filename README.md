@@ -60,4 +60,4 @@ Yatube API - это  платформа для блогов, которая пр
 ***
 
 ## Автор
-#### [_Анастасия Ресницкая_](https://github.com/kostoyanskaya/)
+#### [Анастасия](https://github.com/kostoyanskaya/)

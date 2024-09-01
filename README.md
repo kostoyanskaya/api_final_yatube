@@ -88,6 +88,7 @@ body:
   "image": "string",
   "group": 0
 }
+```
 
 
 ## Документация:

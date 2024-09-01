@@ -26,6 +26,9 @@ class Post(models.Model):
         blank=True, related_name='posts'
     )
 
+    class Meta:
+        ordering = ('pub_date',)
+
     def __str__(self):
         return self.text
 

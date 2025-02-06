@@ -96,4 +96,4 @@ body:
 ***
 
 ## Автор
-#### [Анастасия](https://github.com/kostoyanskaya/)
+#### [Виктория](https://github.com/kostoyanskaya/)
